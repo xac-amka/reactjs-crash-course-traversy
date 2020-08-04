@@ -10,3 +10,5 @@
  * Components can have state which is an object that determines how that component renders and behaves
  * We can also have which "_application level_" state by using a state manager like **Redux** or React own **context API**
 
+> Use **ES7 React/Redux/GraphQL/React-Native snippets** in VS Code.
+

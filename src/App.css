@@ -11,3 +11,21 @@ a {
   color: #333;
   text-decoration: none;
 }
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background-color: #555;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #666;
+}
